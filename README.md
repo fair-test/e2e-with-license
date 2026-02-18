@@ -1,2 +1,3 @@
-# e2e-with-license
-README + MIT LICENSE
+# E2E Test Repo - With License
+
+This repo has a README and LICENSE.
